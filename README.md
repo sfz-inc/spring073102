@@ -1,4 +1,4 @@
-# spring-rest-seed project
+# spring-rest-seed project extraordinaire
 
 This project contains an Atomist seed project for a Spring Boot REST service.
 You can edit this project freely, with Atomist generators capable of
